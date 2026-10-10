@@ -1,0 +1,6 @@
+{
+  "name": "CyberSahara AI",
+  "description": "All-in-one Cyber Cafe, Legal Vakil suite, Sahara refund portal, smart billing, and Hindi voice assistant",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
